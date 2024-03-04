@@ -1,0 +1,13 @@
+.i-h {
+    font-weight: bold!important;
+}
+
+.background-yellow {
+    background-color: #fff387!important;
+    border: 0px!important;
+    color: black!important;
+}
+
+.btn-yellow .background-yellow:hover {
+    background-color: #ffed4a!important;
+}
