@@ -8,6 +8,6 @@
     color: black!important;
 }
 
-.btn-yellow .background-yellow:hover {
+.btn-yellow:hover {
     background-color: #ffed4a!important;
 }
